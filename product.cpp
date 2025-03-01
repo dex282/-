@@ -57,3 +57,4 @@ void Product::copyString(char*& dest, const char* src) {
         dest = nullptr;
     }
 }
+//goida
