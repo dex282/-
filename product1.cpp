@@ -1,5 +1,5 @@
 // product.cpp
-#include "product1.h"
+#include "product1.h"   
 #include <stdexcept>
 
 // Конструктор
