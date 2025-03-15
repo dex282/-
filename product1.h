@@ -16,9 +16,9 @@ enum class Supplier {
 class Product {
 private:
     int id;             // Артикул/ID
-    char* name;         // Динамическая строка для названия
-    double cost;        // Себестоимость
-    Supplier supplier;  // Поставщик
+    char* name;         // Динамическая строка для хранения названия
+    double cost;        // Себестоимость товара
+    Supplier supplier;  //  Перечесление для поставщика
 
 public:
     // Конструкторы
